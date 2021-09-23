@@ -1,4 +1,13 @@
 ### Hi there 👋
+| Name          | Age | Country | Hobby              |
+| --            | --  | --      | --                 |
+| Takaya Fukuda | 25  | Japan   | Photography, Anime |
+
+## SNS Links
+### Twitter
+Anime: [@efutty](https://twitter.com/efutty)
+
+Photography: [@fukudatkyaaa](https://twitter.com/fukudatkyaaa)
 
 <!--
 **TakayaFukuda/TakayaFukuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
